@@ -1,0 +1,5 @@
+model_name,trained_on,predicted_on,prediction_data_type,n_obs,mse,rmse,mae,r_squared,mse_relative_to_linear,rmse_relative_to_linear,mae_relative_to_linear
+linear_regression,MLB,MLB,test,1350,0.4979632234573815,0.7056650929848957,0.4145664834777313,0.4155055493581199,1,1,1
+linear_regression,MLB,NPB,full_cross_league,2721,0.4744737771342832,0.6888205696219323,0.3837303464941226,0.5260198656499424,1,1,1
+linear_regression,NPB,NPB,test,681,0.5076387413140079,0.7124877130968701,0.377109943629316,0.5846474454844421,1,1,1
+linear_regression,NPB,MLB,full_cross_league,5400,0.6172287043286436,0.7856390420088882,0.4415060150943582,0.3851321096775374,1,1,1
